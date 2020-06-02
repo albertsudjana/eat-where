@@ -1,0 +1,15 @@
+{
+  "name": "eatwhere",
+  "version": "1.0.0",
+  "description": "App that randomly chooses close restaurants near me",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "yelp-fusion": "^2.0.2"
+  }
+}
